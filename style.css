@@ -1,0 +1,870 @@
+body{
+    background-color: whitesmoke;
+    overflow-x: hidden;
+    
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.header1{
+    width: 1510px;
+    height: 70px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    position: relative;
+    bottom: 8px;   
+    
+}
+
+
+
+.header2{
+    width: 1510px;
+    height: 60px; 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: orangered;
+    position: relative;      
+    bottom: 7px;
+    
+}
+
+    
+
+.loggo{
+    display: inline-flex;
+    width: 300px;
+    height: 70px;
+    position: relative;
+    left: 0px;
+}
+a{
+   text-decoration-line: none;
+   
+   color: black;
+}
+.user{
+    display: flex;
+    justify-items: flex-start;
+    align-items: center;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    /* border: 20px solid orangered; */
+    border-radius: 20px;
+}
+.option{
+    width: 150px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 1px sold grey;
+   border-radius: 30px;
+    
+}
+*{color: orangered;}
+
+.div1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1300px;
+    height: 300px;
+    border-radius: 20px;
+    background-image: url(./images/ბარათები.jpeg);
+    background-size: cover;
+    position: relative;
+    left: 85px;
+    top: 40px;
+}
+.baratebi{
+    width: 800px;
+    height: 300px;
+    margin-left: 20px;
+    position: relative;
+    right: 250px;
+    top: 100px;
+    
+}
+.button{
+    width: 80pxpx;
+    height: 40px;
+    background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 3px;
+}
+.content1{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    background-size:contain;
+    position: relative;
+    left: 82px;
+    top: 100px;       
+}
+.glass{
+    position: relative;
+    right: 20px;
+}
+.content2{
+    display: flex;
+    
+    justify-content: space-between;
+    width: 1300px;
+    height: 400px;
+    /* border: 1px solid grey; */
+    position: relative;
+    left: 83px;
+    top: 80px;
+    border-radius: 20px;
+    
+}
+.inside{
+    width: 650px;
+    height: 400px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+}
+.inside1{
+    width: 601px;
+    height: 200px;
+    /* border: 2px solid black; */
+    background-image: url(./images/invest.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 24px;
+    
+}
+.inside2{
+    width: 600px;
+    height: 200px;
+    /* border: 2px solid black; */
+}
+h1{
+    position: relative;
+    left: 10px;
+}
+.investireba{
+    position: relative;
+    left: 10px;
+}
+.more{
+    position: relative;
+    bottom: 45px;
+    left: 10px;
+    
+}
+.inside3{
+    width: 600px;
+    height: 400px;
+    /* border: 1px solid gray; */
+    position: relative;
+    left: 698px;
+    bottom: 443px;
+    border-radius: 20px;
+}
+.insidein1{
+    
+    width: 600px;
+    height: 180px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+}
+.insidein2{
+    
+    margin-top: 40px;
+    width: 600px;
+    height: 180px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+
+}
+
+.inside22{
+    width:400px;
+    height: 179px;
+    /* border: 1px solid grey; */
+    border-radius:20px;
+}
+.inside23{
+    width: 180px;
+    height: 159px;
+    /* border: 1px solid grey; */
+    border-radius: 20px;
+    position: relative;
+    bottom: 191px;
+    margin-left: 410px;
+    background-image: url(./images/ვიზიტი.webp);
+    background-size: cover;
+
+}
+.inside33{
+     width:400px;
+    height: 180px;
+    /* border: 1px solid grey; */
+    border-radius:20px;
+    position: relative;
+    bottom: 1px;
+    
+}
+.inside34{
+    width: 180px;
+    height: 160px;
+    /* border: 1px solid grey; */
+    border-radius: 20px;
+    position: relative;
+    bottom: 188px;
+    margin-left: 410px;  
+    background-image: url(./images/დაზღვევა.png);
+    background-size: cover;
+}
+   
+p{
+    margin-left: 20px;
+}
+h2{
+    margin-left: 20px;
+}
+h3{
+    margin-left: 20px;
+}
+.sivrce{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1299px;
+    height: 200px;
+    /* border: 1px solid grey; */
+    margin-left: 83px;
+    margin-top: 120px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 30px;
+}
+
+.card{
+    width: 400px;
+    height: 150px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    transition: 300ms;
+    
+}
+.განათლება{
+    
+    margin-left: 130px;
+    
+
+
+}
+.ganatleba{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 20px;
+    color: black;
+    
+    
+}
+.card:hover{box-shadow: 5px 5px 5px lightgrey;
+}
+
+.recomendproduct{
+    display: flex;
+    justify-content: space-between;
+    
+    width: 1300px;
+    min-height: 500px;
+    /* border: 1px solid grey; */
+    position: relative;
+    left: 83px;
+    border-radius: 20px;
+}
+.recomend1{
+    /* display: flex;
+    justify-content: space-between; */
+    width:400px ;
+    height: 460px;
+    align-items: center;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+}
+.recomend2{
+    /* display: flex;
+    justify-content: space-between; */
+    width:400px ;
+    height: 460px;
+    align-items: center;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    
+}
+.recomend3{
+    /* display: flex;
+    justify-content: space-between; */
+    width:400px ;
+    height: 460px;
+    align-items: center;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+}
+.recomunder{
+    margin-left: 70px;
+}
+    
+.recomendfic1{
+    width: 370px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+   margin-bottom: 130px;
+   margin-left: 15px;
+    border-radius: 10px;
+    background-image: url(./images/limit.jpeg);
+    background-size: cover;
+}
+
+.text1{
+    position: relative;
+    bottom: 100px;
+    color: black;
+
+}
+.limit1{
+    position: relative;
+    bottom: 100px;
+    color: black;
+}
+.limit2{
+    position: relative;
+    bottom: 110px;
+}
+.gzavnilific1{
+    width: 370px;
+    height: 300px;
+    border: 1px solid lightgrey;
+   
+    background-image: url(./images/gzavnili.jpeg);
+    background-size: cover;
+    margin-left: 13px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.gaige1{
+   position: relative;
+   bottom: 50px;
+   
+}
+.yulaba1{
+    width: 370px;
+    height: 300px;
+    background-image: url(./images/yulaba.png);
+    background-size: cover;
+    position: relative;
+    left: 15px;
+    top: 15px;
+    border-radius: 10px;   
+}
+.gadmowere{
+    width: 1300px;
+    height: 350px;
+    background-image: url(./images/gadmowere.jpeg);
+    background-size: cover;
+    margin-left: 83px;
+    border-radius: 20px;
+}
+.gamotvale{
+    width: 1300px;
+    height: 70px;
+    margin-left: 77px;
+
+}
+.sesxiskalkulatori{
+    width: 1300px;
+    height: 600px;
+    border: 1px solid lightgrey;
+    margin-left: 83px;
+    background-color:lightgrey;
+    border-radius: 20px;
+}
+.shida{
+    display: flex;
+    justify-content: space-between;    
+    width: 1200px;
+    height: 500px;
+    border: 1px solid lightgrey;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color:white;
+
+}
+.shida1{
+    width: 550px;
+    height: 450px;
+    /* border: 1px solid lightgrey; */
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 10px;
+    flex-direction: column;
+    
+}
+.shida2{
+     width: 550px;
+    height: 450px;
+    border: 1px solid lightgrey;
+    margin-top: 25px;
+    margin-right: 25px;
+    border-radius: 10px;
+    background-color:lightgray  
+    
+}
+.metisnaxva{
+    margin-left: 220px;
+}
+.input20{
+    width: 400px;
+    height: 60px;
+    border: 1px solid lightgrey;
+    gap: 20px;
+    border-radius: 5px;
+    color: black;
+    
+}
+.input21{
+    width: 395px;
+    height: 60px;
+    border: 1px solid lightgrey;
+    gap: 20px;
+    border-radius: 5px;
+    position: relative;
+    top: 30px;
+    color: black;
+}
+.input22{
+    width: 400px;
+    height: 60px;
+    border: 1px solid lightgrey;
+    gap: 20px;
+    border-radius: 5px;
+    position: relative;
+    top: 60px;
+    color: black;
+}
+.option19{
+    width: 400px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 70px;
+    
+}
+.თანხა{
+    position: relative;
+    right: 380px;
+    top: 15px;
+}
+.danger{
+    position: relative;
+    
+    top: 32px;
+}
+.moitxove{
+    width: 500px;
+    height: 60px;
+    border-color: orangered;
+    border-radius: 5px;
+    background-color: orangered;
+    margin-left: 25px;
+}
+
+.shetavazebebi{
+    display: flex;
+    justify-content: space-between;
+
+    width: 1300px;
+    height: 400px;
+    /* border: 1px solid lightgrey; */
+    border-radius: 20px;
+   position: relative;
+   margin-left: 80px;
+   margin-top: 20px;
+   gap: 20px;
+   
+}
+.undershet{
+    position: relative;
+    left: 65px;
+}
+.shet1{
+    width: 440px;
+    height: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    flex-direction: column;
+   
+}
+.shet2{
+    width: 440px;
+    height: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    flex-direction: column;
+}
+.shet3{
+    width: 440px;
+    height: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    flex-direction: column;
+}
+.sur1{
+    width: 420px;
+    height: 200px;
+    border-top-left-radius:20px;
+    border-top-right-radius: 20px;
+     background-image: url(./images/shet1.jpeg);
+     background-size: contain;
+     position: relative;
+     
+}
+.sence{
+    border-radius: 10px;
+
+    border: 1px solid white;
+    background-color: lightgray;
+
+    
+}
+.sur2{
+    width: 420px;
+    height: 200px;
+    border: 1px solid lightgrey;
+    border-top-left-radius:20px;
+    border-top-right-radius: 20px;
+    background-image: url(./images/shet2.jpg);
+    background-size: contain;
+    position: relative;
+    right: 1px;
+}
+.sur3{
+    width: 420px;
+    height: 200px;
+    border-top-left-radius:20px;
+    border-top-right-radius: 20px;
+    background-image: url(./images/shet3.jpg);
+    position: relative;
+    background-size: contain;
+}
+.pinko{
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: lightgrey;
+    
+}
+.thebody{
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: lightgrey; 
+    
+}
+.thebody1{
+     border-radius: 10px;
+    border: 1px solid white;
+    background-color: lightgrey; 
+    margin-left: 650px;
+    position: relative;
+    bottom: 30px;
+}
+.convertation{
+    margin-left: 85px;
+}
+.daakonventire{
+    width: 1300px;
+    height: 580px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    margin-left: 83px;
+    background-color: lightgrey;
+}
+.insaidan{
+    width: 600px;
+    height: 500px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: white;
+    flex-direction: column;
+}
+.საიდან{
+    position: relative;
+    left: 70px;
+    top: 55px;
+}
+.insaidan1{
+    display: flex;
+   
+    width: 400px;
+    height: 70px;
+    /* border: 1px solid lightgrey; */
+    border-radius: 5px;
+    margin-left: 90px;
+    margin-top: 65px;
+    position: relative;
+   
+}
+.insaidan11{
+    width: 200px;
+    height: 60px;
+    border: 1px solid lightgrey;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.insaidan12{
+    width: 200px;
+    height: 64px;
+    border: 1px solid lightgrey;
+    
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.insaidan0{
+    display: flex;
+   
+    width: 400px;
+    height: 70px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    
+    
+    position: relative;
+}
+.insaidan2{
+    display: flex;
+   
+    width: 400px;
+    height: 70px;
+    /* border: 1px solid lightgrey; */
+    border-radius: 5px;
+    margin-left: 90px;
+    margin-top: 70px;
+}
+.insaidan13{
+    width: 200px;
+    height: 60px;
+    border: 1px solid lightgrey;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.insaidan14{
+    width: 200px;
+    height: 64px;
+    border: 1px solid lightgrey;
+    
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.sad{
+    position: relative;
+    left: 70px;
+    top: 50px;
+}
+.kursi{
+    width: 550px;
+    height: 450px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: lightgrey;
+    flex-direction: column;
+    position: relative;
+    left: 625px;
+    bottom: 535px;
+    
+}
+
+    
+
+.kursi1{
+    display: flex;
+    width: 570px;
+    height: 200px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    background-color: white;
+   position: relative;
+   bottom: 20px;
+
+}
+.kursi11{
+    width: 190px;
+    height: 200px;
+    /* border: 1px solid lightgrey; */
+    
+}
+.kursi2{ 
+    display: flex;
+    width: 570px;
+    height: 200px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    
+    
+}
+.kursi12{
+   
+    width: 190px;
+    height: 200px;
+    border: 1px solid lightgrey;
+}
+.kursii{
+    width: 570px;
+    height: 80px;
+    border: 1px solid lightgrey;
+    background-color: white;
+    position: relative;
+    bottom: 30px;
+    background-color: lightgrey;
+}
+.chart{
+    position: relative;
+    left: 120px;
+}
+.arrow{
+    position: relative;
+    left: 500px;
+}
+.siaxle{
+    margin-left: 85px;
+}
+.siaxleebi{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    height:420px;
+    /* border: 1px solid lightgrey; */
+    border-radius: 20px;
+    margin-left: 85px;
+    gap: 20px;
+}
+.siaxleebi1{
+    flex-direction: column;
+    width: 400px;
+    height: 420px;
+    border: 1px solig black;
+    border-radius: 10px;
+    background-color: white;
+}
+.warmogidgent{
+    width: 400px;
+    height: 220px;
+    background-image: url(./images/warmogidgent.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+.warmogidgent1{
+    width: 400px;
+    height: 220px;
+    background-image: url(./images/warmogidgent1.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+.warmogidgent2{
+    width: 400px;
+    height: 220px;
+    background-image: url(./images/warmogidgent3.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+.metisiaxle{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    margin-left: 625px;
+    margin-top: 30px;
+    border: white;
+    transition: 200px;
+}
+.metisiaxle:hover{
+    box-shadow: 5px 5px 5px grey;
+}
+.footer{
+    margin-left: 85px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    height: 600px;
+    /* border: 1px solid lightgrey; */
+    
+}
+
+    
+
+.infoot{
+    
+    width: 400px;
+    height: 600px;
+    /* border: 1px solid lightgrey; */
+    color: grey;
+    
+}
+
+
+.ender{
+    display: flex;
+    justify-content: space-between;
+    width: 1298px;
+    height: 120px;
+    /* border: 1px solid lightgrey; */
+    margin-left: 85px;
+    margin-top: 28px;
+    
+    
+}
+.stores{
+    width: 140px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.elfosta{
+    margin-left: 30px;
+    width: 170px;
+    height:40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    /* background-color: grey; */
+}
+.hr1{
+    position: relative;
+    top: 40px;
+}
+.endimage{
+    width: 300px;
+   height: 50px;
+    background-image: url(./images/bogend.png);
+    background-size: cover;
+}
+.end{
+    margin-right: 500px;
+}
